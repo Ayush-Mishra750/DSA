@@ -1,76 +1,109 @@
-#include <bits/stdc++.h>
+// #include <bits/stdc++.h>
+// using namespace std;
+
+
+// struct Node {
+//     int data;
+//     Node* left;
+//     Node* right;
+   
+//     Node(int val) : data(val), left(nullptr), right(nullptr) {}
+// };
+
+// class Solution {
+// public:
+//     // Function to perform preorder traversal
+//     // of the tree and store values in 'arr'
+//     void preorder(Node* root, vector<int> &arr){
+//         if(root == nullptr){
+//             return;
+//         }
+//         arr.push_back(root->data);
+//         preorder(root->left, arr);
+ 
+//         preorder(root->right, arr);
+//     }
+//     vector<int> preOrder(Node* root){
+//          vector<int> arr;
+//         preorder(root, arr);
+//         return arr;
+//     }
+// };
+
+// int main()
+// {
+ 
+//     Node* root = new Node(1);
+//     root->left = new Node(2);
+//     root->right = new Node(3);
+//     root->left->left = new Node(4);
+//     root->left->right = new Node(5);
+
+   
+//     Solution sol;
+//     vector<int> result = sol.preOrder(root);
+//     cout << "Preorder Traversal: ";
+//     for(int val : result) {
+//         cout << val << " ";
+//     }
+//     cout << endl;
+
+//     return 0;
+// }
+
+
+//? using iterative method to do preorder traversal of a binary tree
+#include<bits/stdc++.h>
 using namespace std;
 
-// Node structure for
-// the binary tree
-struct Node {
-    int data;
-    Node* left;
-    Node* right;
-    // Constructor to initialize
-   
-    Node(int val) : data(val), left(nullptr), right(nullptr) {}
-};
-
-// Solution class containing traversal functions
-class Solution {
-public:
-    // Function to perform preorder traversal
-    // of the tree and store values in 'arr'
-    void preorder(Node* root, vector<int> &arr){
-        // If the current node is NULL
-        // (base case for recursion), return
-        if(root == nullptr){
-            return;
-        }
-        // Push the current node's
-        // value into the vector
-        arr.push_back(root->data);
-        // Recursively traverse
-        // the left subtree
-        preorder(root->left, arr);
-        // Recursively traverse 
-        // the right subtree
-        preorder(root->right, arr);
-    }
-
-    // Function to initiate preorder traversal
-    // and return the resulting vector
-    vector<int> preOrder(Node* root){
-        // Create an empty vector to
-        // store preorder traversal values
-        vector<int> arr;
-        // Call the preorder traversal function
-        preorder(root, arr);
-        // Return the resulting vector
-        // containing preorder traversal values
-        return arr;
-    }
-};
-
-int main()
+struct preorder
 {
-    // Creating a sample binary tree
-    Node* root = new Node(1);
-    root->left = new Node(2);
-    root->right = new Node(3);
-    root->left->left = new Node(4);
-    root->left->right = new Node(5);
-
-   
-    Solution sol;
-
-    // Getting preorder traversal
-    vector<int> result = sol.preOrder(root);
-
-    // Displaying the preorder traversal result
-    cout << "Preorder Traversal: ";
-    // Output each value in the
-    // preorder traversal result
-    for(int val : result) {
-        cout << val << " ";
+    int data;
+    preorder*left;
+    preorder*right;
+    preorder(int val){
+        data=val;
+        left=NULL;
+        right=NULL;
     }
-    cout << endl;
+};
+class Solution{
+    public:
+   vector<int> preorderTraversal(preorder*root){
+    vector<int>ans;
+      if(root==NULL){
+        return ans ;
+      }
+      stack<preorder*>st;
+      st.push(root);
+      while(!st.empty()){
+        preorder*node=st.top();
+        st.pop();
+        ans.push_back(node->data);
+        if(node->right!=NULL){
+            st.push(node->right);
+        }
+        if(node->left!=NULL){
+            st.push(node->left);
+        }
+      }
+      return ans;
+      
 
-    return 0;
+    }
+};
+
+int main(){
+     preorder*root=new preorder(1);
+     root->right=new preorder(2);
+     root->right->left=new preorder(3);
+          root->left=new preorder(4);
+          Solution obj;
+          vector<int>ans= obj.preorderTraversal(root);
+          for(auto it:ans){
+            cout<<it<<" ";
+          }
+
+
+return 0;
 }
