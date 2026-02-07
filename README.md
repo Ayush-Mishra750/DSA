@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ayush-Mishra750/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Ayush-Mishra750/DSA/tree/master/0994-rotting-oranges) |
+## String
+|  |
+| ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ayush-Mishra750/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ayush-Mishra750/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 <!---LeetCode Topics End-->
