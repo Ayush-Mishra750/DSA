@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Ayush-Mishra750/DSA/tree/master/0994-rotting-oranges) |
 | [3637-trionic-array-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3637-trionic-array-i) |
 ## Hash Table
@@ -39,17 +40,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Ayush-Mishra750/DSA/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ayush-Mishra750/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ayush-Mishra750/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Ayush-Mishra750/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ayush-Mishra750/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Ayush-Mishra750/DSA/tree/master/0994-rotting-oranges) |
 ## String
 |  |
