@@ -38,10 +38,13 @@ public:
                 if(dis+cost<dist[nodeval]){
                     dist[nodeval]=dis+cost;
                     pq.push({dis+cost,nodeval});
-                    ways[nodeval]=ways[node];
+                    ways[nodeval]=ways[node]; // if particular node value is not smaller then
+                    // we did not  update or add only assign 
+                    
                 }
                 else if(cost+dis==dist[nodeval]){
-                    ways[nodeval]=(ways[nodeval]+ways[node])%mod;
+                    ways[nodeval]=(ways[nodeval]+ways[node])%mod; //if value will be same then we 
+                    //increase or add on.
                 }
             }
 
