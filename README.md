@@ -174,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
