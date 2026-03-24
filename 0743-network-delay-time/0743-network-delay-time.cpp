@@ -1,7 +1,7 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        //firstly  we crete the adjacency vector
+        //firstly  we crate the adjacency vector
         vector<vector<pair<int,int>>>adj(n+1);
         for(int i=0;i<times.size();i++){
             int u=times[i][0], v=times[i][1], wt=times[i][2];
