@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ayush-Mishra750/DSA/tree/master/0127-word-ladder) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayush-Mishra750/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ayush-Mishra750/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
