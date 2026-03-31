@@ -47,7 +47,7 @@ int findCircleNum(vector<vector<int>>& isConnected) {
         }
         int cnt=0;
         for(int i=0;i<n;i++){
-            if(ds.findUparent(i)==i){
+            if(ds.parent[i]==i){
                 cnt++;
             }
         }
