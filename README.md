@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ayush-Mishra750/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ayush-Mishra750/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ayush-Mishra750/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ayush-Mishra750/DSA/tree/master/1020-number-of-enclaves) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Ayush-Mishra750/DSA/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ayush-Mishra750/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ayush-Mishra750/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ayush-Mishra750/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ayush-Mishra750/DSA/tree/master/0785-is-graph-bipartite) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ayush-Mishra750/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ayush-Mishra750/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ayush-Mishra750/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ayush-Mishra750/DSA/tree/master/0785-is-graph-bipartite) |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ayush-Mishra750/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ayush-Mishra750/DSA/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Ayush-Mishra750/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ayush-Mishra750/DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ayush-Mishra750/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ayush-Mishra750/DSA/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayush-Mishra750/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ayush-Mishra750/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
@@ -179,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
+| [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 ## Math
 |  |
 | ------- |
