@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Ayush-Mishra750/DSA/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-Mishra750/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -198,5 +199,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/3871-count-commas-in-range-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
