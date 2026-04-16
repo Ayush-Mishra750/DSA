@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-Mishra750/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ayush-Mishra750/DSA/tree/master/1631-path-with-minimum-effort) |
+| [3488-closest-equal-element-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Ayush-Mishra750/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ayush-Mishra750/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-Mishra750/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3488-closest-equal-element-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ayush-Mishra750/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [3488-closest-equal-element-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
