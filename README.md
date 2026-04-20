@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Ayush-Mishra750/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ayush-Mishra750/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayush-Mishra750/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-Mishra750/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3637-trionic-array-i) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
