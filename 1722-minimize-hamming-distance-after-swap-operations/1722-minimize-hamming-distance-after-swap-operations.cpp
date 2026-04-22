@@ -33,9 +33,9 @@ public:
         int n=source.size();
         DisjointSet ds(n);
   
-        for(int i=0;i<n;i++){
-          ds.parent[i]=i;
-        }
+        // for(int i=0;i<n;i++){
+        //   ds.parent[i]=i;
+        // }
         for(auto &it:allowedSwaps){
             ds.unionBySize(it[0],it[1]);
         }
