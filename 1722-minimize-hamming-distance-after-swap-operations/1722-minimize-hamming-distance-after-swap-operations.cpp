@@ -30,33 +30,31 @@ vector<int>size,parent ;
 class Solution {
 public:
     int minimumHammingDistance(vector<int>& source, vector<int>& target, vector<vector<int>>& allowedSwaps) {
-        int n=source.size();
-        DisjointSet ds(n);
-  
-        // for(int i=0;i<n;i++){
-        //   ds.parent[i]=i;
-        // }
-        for(auto &it:allowedSwaps){
-            ds.unionBySize(it[0],it[1]);
+      int n=source.size();
+      DisjointSet ds(n);
+       for(auto it:allowedSwaps){
+        ds.unionBySize(it[0],it[1]);
+       }
+       unordered_map<int ,vector<int>>mpp;
+     for(int i=0;i<n;i++){
+        mpp[ds.findUParent(i)].push_back(i);
+     }
+     int ans=0;
+     for(auto& [p,indx]:mpp){
+        unordered_map<int,int>freq;
+        for(auto i:indx){
+            freq[source[i]]++;
         }
-        unordered_map<int,vector<int>>mpp;
-        for(int i=0;i<n;i++){
-            mpp[ds.findUParent(i)].push_back(i);
-        }
-        int ans=0;
-        for(auto &[p,indx]:mpp){
-            unordered_map<int,int>freq;
-            for(auto i:indx)freq[source[i]]++;
-
-            for(auto it:indx){
-                if(freq[target[it]]>0){
-                    freq[target[it]]--;
-                }
-                else{
-                    ans++;
-                }
+        for(auto it:indx){
+            if(freq[target[it]]>0){
+                freq[target[it]]--;
+            }
+            else{
+                ans++;
             }
         }
-        return ans;
+     }
+     return ans;
+       
     }
 };
