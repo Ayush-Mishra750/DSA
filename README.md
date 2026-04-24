@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ayush-Mishra750/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ayush-Mishra750/DSA/tree/master/0733-flood-fill) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Ayush-Mishra750/DSA/tree/master/0085-maximal-rectangle) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-Mishra750/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ayush-Mishra750/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Ayush-Mishra750/DSA/tree/master/2833-furthest-point-from-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
