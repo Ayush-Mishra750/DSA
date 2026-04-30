@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Ayush-Mishra750/DSA/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
+| [1092-shortest-common-supersequence](https://github.com/Ayush-Mishra750/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-Mishra750/DSA/tree/master/1143-longest-common-subsequence) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ayush-Mishra750/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-Mishra750/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-Mishra750/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1092-shortest-common-supersequence](https://github.com/Ayush-Mishra750/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-Mishra750/DSA/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ayush-Mishra750/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ayush-Mishra750/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
