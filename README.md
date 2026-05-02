@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ayush-Mishra750/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ayush-Mishra750/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ayush-Mishra750/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Ayush-Mishra750/DSA/tree/master/0127-word-ladder) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ayush-Mishra750/DSA/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ayush-Mishra750/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Ayush-Mishra750/DSA/tree/master/0085-maximal-rectangle) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ayush-Mishra750/DSA/tree/master/0044-wildcard-matching) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Trie
 |  |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0494-target-sum) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ayush-Mishra750/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
