@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ayush-Mishra750/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ayush-Mishra750/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ayush-Mishra750/DSA/tree/master/0994-rotting-oranges) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayush-Mishra750/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ayush-Mishra750/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-Mishra750/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1092-shortest-common-supersequence](https://github.com/Ayush-Mishra750/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-Mishra750/DSA/tree/master/1143-longest-common-subsequence) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ayush-Mishra750/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ayush-Mishra750/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Trie
 |  |
