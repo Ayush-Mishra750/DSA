@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Ayush-Mishra750/DSA/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3637-trionic-array-i) |
+| [3660-jump-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayush-Mishra750/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ayush-Mishra750/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ayush-Mishra750/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3660-jump-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/3660-jump-game-ix) |
 ## Topological Sort
 |  |
 | ------- |
