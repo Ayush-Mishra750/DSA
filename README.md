@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-Mishra750/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ayush-Mishra750/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Ayush-Mishra750/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayush-Mishra750/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Ayush-Mishra750/DSA/tree/master/2540-minimum-common-value) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ayush-Mishra750/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ayush-Mishra750/DSA/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ayush-Mishra750/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Ayush-Mishra750/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayush-Mishra750/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Ayush-Mishra750/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2615-sum-of-distances](https://github.com/Ayush-Mishra750/DSA/tree/master/2615-sum-of-distances) |
 ## Counting
 |  |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0061-rotate-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Ayush-Mishra750/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
