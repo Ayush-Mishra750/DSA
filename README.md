@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-Mishra750/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Ayush-Mishra750/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1340-jump-game-v](https://github.com/Ayush-Mishra750/DSA/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayush-Mishra750/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Ayush-Mishra750/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ayush-Mishra750/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Ayush-Mishra750/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayush-Mishra750/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ayush-Mishra750/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1340-jump-game-v](https://github.com/Ayush-Mishra750/DSA/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayush-Mishra750/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ayush-Mishra750/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3660-jump-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/3660-jump-game-ix) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
+| [1340-jump-game-v](https://github.com/Ayush-Mishra750/DSA/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayush-Mishra750/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2784-check-if-array-is-good](https://github.com/Ayush-Mishra750/DSA/tree/master/2784-check-if-array-is-good) |
 ## Math
