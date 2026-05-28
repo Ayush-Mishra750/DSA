@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Ayush-Mishra750/DSA/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Ayush-Mishra750/DSA/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ayush-Mishra750/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3488-closest-equal-element-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3637-trionic-array-i) |
 | [3660-jump-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/3660-jump-game-ix) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Ayush-Mishra750/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayush-Mishra750/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ayush-Mishra750/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ayush-Mishra750/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ayush-Mishra750/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ayush-Mishra750/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3093-longest-common-suffix-queries) |
 ## Prefix Sum
 |  |
 | ------- |
