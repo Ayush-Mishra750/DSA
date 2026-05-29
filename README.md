@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Ayush-Mishra750/DSA/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ayush-Mishra750/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3637-trionic-array-i) |
 | [3660-jump-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/3660-jump-game-ix) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayush-Mishra750/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/3871-count-commas-in-range-ii) |
