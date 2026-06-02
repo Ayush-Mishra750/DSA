@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ayush-Mishra750/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-Mishra750/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Ayush-Mishra750/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayush-Mishra750/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [1340-jump-game-v](https://github.com/Ayush-Mishra750/DSA/tree/master/1340-jump-game-v) |
