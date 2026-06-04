@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Ayush-Mishra750/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ayush-Mishra750/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-Mishra750/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/0075-sort-colors) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayush-Mishra750/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-Mishra750/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Ayush-Mishra750/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Ayush-Mishra750/DSA/tree/master/0130-surrounded-regions) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayush-Mishra750/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
