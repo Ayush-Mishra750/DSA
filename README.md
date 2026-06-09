@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3945-digit-frequency-score](https://github.com/Ayush-Mishra750/DSA/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayush-Mishra750/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/3871-count-commas-in-range-ii) |
+| [3945-digit-frequency-score](https://github.com/Ayush-Mishra750/DSA/tree/master/3945-digit-frequency-score) |
 ## Memoization
 |  |
 | ------- |
