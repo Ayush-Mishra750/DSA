@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ayush-Mishra750/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ayush-Mishra750/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ayush-Mishra750/DSA/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Ayush-Mishra750/DSA/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
