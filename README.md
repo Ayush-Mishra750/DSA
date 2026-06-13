@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ayush-Mishra750/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayush-Mishra750/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ayush-Mishra750/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayush-Mishra750/DSA/tree/master/3783-mirror-distance-of-an-integer) |
