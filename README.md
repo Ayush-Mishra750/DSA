@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayush-Mishra750/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Ayush-Mishra750/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
