@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-Mishra750/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-Mishra750/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Ayush-Mishra750/DSA/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ayush-Mishra750/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
