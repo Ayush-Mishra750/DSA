@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Ayush-Mishra750/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ayush-Mishra750/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Ayush-Mishra750/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ayush-Mishra750/DSA/tree/master/0542-01-matrix) |
