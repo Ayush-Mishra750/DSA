@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Ayush-Mishra750/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Ayush-Mishra750/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush-Mishra750/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ayush-Mishra750/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3827-count-monobit-integers](https://github.com/Ayush-Mishra750/DSA/tree/master/3827-count-monobit-integers) |
 ## Enumeration
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ayush-Mishra750/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ayush-Mishra750/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0494-target-sum) |
 ## Recursion
