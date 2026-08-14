@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayush-Mishra750/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Ayush-Mishra750/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ayush-Mishra750/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ayush-Mishra750/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Ayush-Mishra750/DSA/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ayush-Mishra750/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0229-majority-element-ii) |
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [1340-jump-game-v](https://github.com/Ayush-Mishra750/DSA/tree/master/1340-jump-game-v) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0229-majority-element-ii) |
 | [2833-furthest-point-from-origin](https://github.com/Ayush-Mishra750/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Backtracking
@@ -444,8 +448,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush-Mishra750/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayush-Mishra750/DSA/tree/master/0062-unique-paths) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
