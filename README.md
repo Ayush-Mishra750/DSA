@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ayush-Mishra750/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0229-majority-element-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ayush-Mishra750/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ayush-Mishra750/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ayush-Mishra750/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
