@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3637-trionic-array-i) |
 | [3660-jump-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/3660-jump-game-ix) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayush-Mishra750/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ayush-Mishra750/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0287-find-the-duplicate-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayush-Mishra750/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3827-count-monobit-integers](https://github.com/Ayush-Mishra750/DSA/tree/master/3827-count-monobit-integers) |
 ## Enumeration
 |  |
