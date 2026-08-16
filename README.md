@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayush-Mishra750/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ayush-Mishra750/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayush-Mishra750/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2029-stone-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayush-Mishra750/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ayush-Mishra750/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ayush-Mishra750/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2029-stone-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/2029-stone-game-ix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayush-Mishra750/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ayush-Mishra750/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ayush-Mishra750/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2029-stone-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayush-Mishra750/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Ayush-Mishra750/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Backtracking
 |  |
@@ -468,4 +472,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
