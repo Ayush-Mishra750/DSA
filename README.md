@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayush-Mishra750/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Ayush-Mishra750/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Ayush-Mishra750/DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ayush-Mishra750/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Ayush-Mishra750/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Ayush-Mishra750/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-Mishra750/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/Ayush-Mishra750/DSA/tree/master/1871-jump-game-vii) |
