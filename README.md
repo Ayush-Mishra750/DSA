@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-Mishra750/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/Ayush-Mishra750/DSA/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Ayush-Mishra750/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Ayush-Mishra750/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ayush-Mishra750/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Ayush-Mishra750/DSA/tree/master/0127-word-ladder) |
