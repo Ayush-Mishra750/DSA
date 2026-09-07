@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ayush-Mishra750/DSA/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ayush-Mishra750/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-Mishra750/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ayush-Mishra750/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ayush-Mishra750/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0242-valid-anagram](https://github.com/Ayush-Mishra750/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-Mishra750/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ayush-Mishra750/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayush-Mishra750/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ayush-Mishra750/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ayush-Mishra750/DSA/tree/master/0274-h-index) |
 | [0721-accounts-merge](https://github.com/Ayush-Mishra750/DSA/tree/master/0721-accounts-merge) |
 | [1340-jump-game-v](https://github.com/Ayush-Mishra750/DSA/tree/master/1340-jump-game-v) |
