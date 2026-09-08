@@ -29,9 +29,8 @@ public:
             if(!temp)return head;
             temp=temp->next;
         }
-        ListNode*lastNode=reverse(head,temp);
-        head->next=reverseKGroup(temp,k);
-
-        return lastNode;
+ListNode*last_node=reverse(head,temp);
+head->next=reverseKGroup(temp,k);
+        return last_node;
     }
 };
