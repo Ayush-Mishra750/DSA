@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ayush-Mishra750/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Ayush-Mishra750/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush-Mishra750/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0202-happy-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ayush-Mishra750/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0202-happy-number) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayush-Mishra750/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
