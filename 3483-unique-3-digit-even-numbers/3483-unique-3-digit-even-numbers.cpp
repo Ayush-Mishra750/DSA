@@ -1,23 +1,22 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        int n=digits.size();
-        unordered_set<int>st;
-    int ans;
-    for(int i=0;i<n;i++){
-        for(int j=0;j<n;j++){
-            for(int k=0;k<n;k++){
-                if(i!=j && i!=k &&j!=k){
-                    if(digits[i]!=0){
-                        if(digits[k]%2==0){
-                         ans=digits[i]*100+digits[j]*10+digits[k];
-                st.insert(ans);
-                        }
-                    }
+        unordered_set<int> mp;
+        int n = digits.size();
+
+        for(int i = 0 ; i<n ; i++){
+            if(digits[i] %2 != 0) continue;
+            for(int j = 0; j<n ; j++){
+                if(j==i) continue;
+                for(int k =0; k<n ; k++){
+                    if(k==j|| k==i) continue;
+                    if(digits[k] == 0) continue;
+
+                    int result = digits[k]*100 + digits[j]*10 + digits[i];
+                    mp.insert(result);
                 }
             }
         }
-    }
-    return st.size();
+        return mp.size();
     }
 };
