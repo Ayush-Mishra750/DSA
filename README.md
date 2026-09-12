@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Ayush-Mishra750/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayush-Mishra750/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Ayush-Mishra750/DSA/tree/master/2540-minimum-common-value) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayush-Mishra750/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3488-closest-equal-element-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Tree
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ayush-Mishra750/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayush-Mishra750/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayush-Mishra750/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayush-Mishra750/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1871-jump-game-vii](https://github.com/Ayush-Mishra750/DSA/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ayush-Mishra750/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayush-Mishra750/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3660-jump-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/3660-jump-game-ix) |
 ## Topological Sort
 |  |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ayush-Mishra750/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayush-Mishra750/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Ayush-Mishra750/DSA/tree/master/2784-check-if-array-is-good) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayush-Mishra750/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush-Mishra750/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
