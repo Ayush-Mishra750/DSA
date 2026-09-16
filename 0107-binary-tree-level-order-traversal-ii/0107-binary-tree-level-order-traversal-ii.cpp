@@ -29,7 +29,7 @@ public:
 
           }
         //   st.push(level);
-        ans.push_back(level);
+        ans.insert(ans.begin(),level);
 
         }
         // while(!st.empty()){
@@ -37,7 +37,7 @@ public:
         //     st.pop();
         //     ans.push_back(level);
         // }
-        reverse(ans.begin(),ans.end());
+        // reverse(ans.begin(),ans.end());
         return ans;
         
     }
