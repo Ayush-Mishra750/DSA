@@ -15,7 +15,7 @@ public:
         vector<vector<int>>ans;
         if(root==NULL)return ans;
         queue<TreeNode*>q;
-        stack<vector<int>>st;
+        // stack<vector<int>>st;
         q.push(root);
         while(!q.empty()){
           int size=q.size();
@@ -28,14 +28,16 @@ public:
             if(node->right!=NULL)q.push(node->right);
 
           }
-          st.push(level);
+        //   st.push(level);
+        ans.push_back(level);
 
         }
-        while(!st.empty()){
-            vector<int>level=st.top();
-            st.pop();
-            ans.push_back(level);
-        }
+        // while(!st.empty()){
+        //     vector<int>level=st.top();
+        //     st.pop();
+        //     ans.push_back(level);
+        // }
+        reverse(ans.begin(),ans.end());
         return ans;
         
     }
