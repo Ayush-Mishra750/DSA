@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ayush-Mishra750/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Ayush-Mishra750/DSA/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Ayush-Mishra750/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ayush-Mishra750/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ayush-Mishra750/DSA/tree/master/0312-burst-balloons) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-Mishra750/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Ayush-Mishra750/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Ayush-Mishra750/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush-Mishra750/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush-Mishra750/DSA/tree/master/0876-middle-of-the-linked-list) |
