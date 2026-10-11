@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-Mishra750/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Ayush-Mishra750/DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Ayush-Mishra750/DSA/tree/master/2615-sum-of-distances) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ayush-Mishra750/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Ayush-Mishra750/DSA/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ayush-Mishra750/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Ayush-Mishra750/DSA/tree/master/3093-longest-common-suffix-queries) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ayush-Mishra750/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayush-Mishra750/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/Ayush-Mishra750/DSA/tree/master/3827-count-monobit-integers) |
 ## Stack
