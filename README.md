@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Ayush-Mishra750/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ayush-Mishra750/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2029-stone-game-ix](https://github.com/Ayush-Mishra750/DSA/tree/master/2029-stone-game-ix) |
+| [3099-harshad-number](https://github.com/Ayush-Mishra750/DSA/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-Mishra750/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ayush-Mishra750/DSA/tree/master/3783-mirror-distance-of-an-integer) |
