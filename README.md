@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Ayush-Mishra750/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayush-Mishra750/DSA/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Ayush-Mishra750/DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Mishra750/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayush-Mishra750/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3827-count-monobit-integers](https://github.com/Ayush-Mishra750/DSA/tree/master/3827-count-monobit-integers) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush-Mishra750/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ayush-Mishra750/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Ayush-Mishra750/DSA/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/Ayush-Mishra750/DSA/tree/master/0493-reverse-pairs) |
 ## Combinatorics
 |  |
